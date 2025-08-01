@@ -1,7 +1,7 @@
-### Text Analysis Report
+# Text Analysis Report
 
 ## ✨Features:
-# Counts:
+### Counts:
 
 ~Total characters
 
@@ -13,7 +13,7 @@
 
 ~Vowels and consonants
 
-# Detects:
+### Detects:
 
 ~Most common word
 
